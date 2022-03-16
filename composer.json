@@ -1,0 +1,12 @@
+{
+    "name": "utilitte/association",
+    "require": {
+        "php": ">= 8.1",
+        "phpstan/phpstan": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Utilitte\\Association\\": "src"
+        }
+    }
+}
